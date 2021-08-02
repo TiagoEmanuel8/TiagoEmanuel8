@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiagoemanuel/" height="30" width="40" /></a>
 <a href="https://pt.stackoverflow.com/users/251316/tiago-emanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/251316/tiago-emanuel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tiago_emanuel_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tiago_emanuel_n" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/tiagoam" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="https://www.codewars.com/users/tiagoam" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/TiagoAM" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="https://www.codewars.com/users/tiagoam" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoemanuel8&show_icons=true&locale=en&layout=compact" alt="tiagoemanuel8" /></p>

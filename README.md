@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoemanuel8&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoemanuel8" /> </p>
 
-- 🌱 Atualmente sou estudante de desenvolvimento fullstack na **<a href="https://www.betrybe.com/">Trybe</a></p>**
+- 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na **<a href="https://www.betrybe.com/">Trybe</a></p>**
+- 📝 Terminei o módulo de front end (focado em reactJs e redux) e estou estudando o back end (com nodeJs)
+- 💻 Futuramente pretendo estudar programação na blockchain
+- 📝 No tempo livre gosto de tocar teclado 🎹 e jogar video game 🎮
 
 <h3 align="left">Tecnologias</h3>
 

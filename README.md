@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 Me chamo Tiago Emanuel</h1>
-<h3 align="center">Estudante desenvolvimento de software || Fullstack</h3>
+<h3 align="center">Estudante desenvolvimento de software Fullstack || Trybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoemanuel8&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoemanuel8" /> </p>
 

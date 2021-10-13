@@ -6,8 +6,9 @@
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
 - 🔭 Terminei o módulo de front end (focado em reactJs e redux) e estou estudando o back end (focado em mySql, Mongodb e nodeJs)
 - 💻 Futuramente pretendo estudar programação na blockchain
-- ⚡ No tempo livre gosto de tocar teclado 🎹 e jogar video game 🎮
+- ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 
+- 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app/#about-me" target="_blank">Portifólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações</p>
 
 <h3 align="left">Tecnologias</h3>

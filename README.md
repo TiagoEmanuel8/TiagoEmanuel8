@@ -8,7 +8,7 @@
 - 💻 Futuramente pretendo estudar programação na blockchain
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 
-- 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app/#about-me" target="_blank">Portifólio</a>.</p>
+- 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portifólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações</p>
 
 <h3 align="left">Tecnologias</h3>

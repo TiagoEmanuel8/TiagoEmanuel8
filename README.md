@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoemanuel8&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoemanuel8" /> </p>
 
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
-- 🔭 Terminei o módulo de front end (focado em reactJs e redux) e estou estudando o back end (focado em mySql, Mongodb e nodeJs)
+- 🔭 Terminei o módulo de front end (focado em reactJs, redux, hooks e contextApi) e estou estudando o back end (focado em mySql, Mongodb e nodeJs)
 - 💻 Futuramente pretendo estudar programação na blockchain
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 

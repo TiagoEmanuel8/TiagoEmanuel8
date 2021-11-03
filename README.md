@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋 Me chamo Tiago Emanuel</h1>
 <h3 align="center">Dev Front-End || Dev Back-End || Estudante Trybe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoemanuel8&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoemanuel8" /> </p>
-
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
 - 🔭 Terminei o módulo de front end (focado em reactJs, redux, hooks e contextApi) e estou estudando o back end (focado em mySql, Mongodb e nodeJs)
 - 💻 Futuramente pretendo estudar programação na blockchain
@@ -24,8 +22,7 @@
 <a href="https://www.hackerrank.com/tiago_emanuel_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tiago_emanuel_n" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/TiagoAM" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="https://www.codewars.com/users/tiagoam" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoemanuel8&show_icons=true&locale=en&layout=compact" alt="tiagoemanuel8" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoemanuel8&show_icons=true&locale=en" alt="tiagoemanuel8" /></p>
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoemanuel8&show_icons=true&theme=tokyonight)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemanuel8&title_color=6fa4fc&icon_color=f9f9f9&text_color=2a7875&bg_color=1a1b27)](https://github.com/anuraghazra/github-readme-stats)

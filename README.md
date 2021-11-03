@@ -22,7 +22,11 @@
 <a href="https://www.hackerrank.com/tiago_emanuel_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tiago_emanuel_n" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/TiagoAM" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="https://www.codewars.com/users/tiagoam" height="30" width="40" /></a>
 </p>
+
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoemanuel8&show_icons=true&theme=tokyonight)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemanuel8&title_color=6fa4fc&icon_color=f9f9f9&text_color=2a7875&bg_color=1a1b27)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/TiagoEmanuel8/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemanuel8&title_color=6fa4fc&icon_color=f9f9f9&text_color=2a7875&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoemanuel8&show_icons=true&theme=tokyonight" />
+</a>

@@ -30,7 +30,7 @@
     <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
       <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50">
     </a>
-    <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
+    <a href='mailto:tiago.emanuel.n@gmail.com' target='_blank' rel='noreferrer'>
       <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50">
     </a>
   </span>

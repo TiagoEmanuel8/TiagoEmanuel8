@@ -30,12 +30,15 @@
     <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
       <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50">
     </a>
+    <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
+      <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50">
+    </a>
   </span>
 </div>
 <br>
 <a href="https://github.com/TiagoEmanuel8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemanuel8&title_color=6fa4fc&icon_color=f9f9f9&text_color=2a7875&bg_color=1a1b27" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="mailto:tiago.emanuel.n@gmail.com?Subject=Título%20da%20mensagem">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoemanuel8&show_icons=true&theme=tokyonight" />
 </a>

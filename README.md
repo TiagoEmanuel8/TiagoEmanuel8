@@ -25,7 +25,7 @@
     </span>
 </div>
 <div>
-  <h3> Minhas redes </h3>
+  <h3> Contato </h3>
   <span>
     <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
       <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50">
@@ -36,9 +36,11 @@
   </span>
 </div>
 <br>
-<a href="https://github.com/TiagoEmanuel8/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemanuel8&title_color=6fa4fc&icon_color=f9f9f9&text_color=2a7875&bg_color=1a1b27" />
-</a>
-<a href="mailto:tiago.emanuel.n@gmail.com?Subject=Título%20da%20mensagem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoemanuel8&show_icons=true&theme=tokyonight" />
-</a>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="contador-stacks" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&theme=tokyonight&show_icons=true&locale=en" alt="contribuições-repositórios" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoEmanuel8&theme=tokyonight" alt="principais-stacks" /></p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TiagoEmanuel8&label=Profile%20views&color=0e75b6&style=flat" alt="contador-visitas" /> </p>

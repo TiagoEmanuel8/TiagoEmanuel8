@@ -27,9 +27,9 @@
 <div>
   <h3> Contato </h3>
   <span>
-    <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
+<!--     <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
       <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50">
-    </a>
+    </a> -->
     <a href='mailto:tiago.emanuel.n@gmail.com' target='_blank' rel='noreferrer'>
       <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50">
     </a>

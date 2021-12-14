@@ -24,33 +24,25 @@
        <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
     </span>
 </div>
-<!-- <div>
-  <h3> Contato </h3>
-  <span>
-    <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
-      <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50">
-    </a>
-    <a href='mailto:tiago.emanuel.n@gmail.com' target='_blank' rel='noreferrer'>
-      <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50">
-    </a>
-  </span>
-</div> -->
+
 <br>
-<span>
+<!-- <span>
   <img src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&theme=tokyonight&show_icons=true&locale=en" alt="contribuições-repositórios" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="contador-stacks" />
 </span>
 <br>
 
-#
+# -->
+
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
  <div><br>
+   
 #
+   
   <div align="center">
    <a href="https://www.linkedin.com/in/tiagoemanuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:tiago.emanuel.n@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

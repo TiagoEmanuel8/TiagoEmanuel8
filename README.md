@@ -24,7 +24,7 @@
        <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
     </span>
 </div>
-<div>
+<!-- <div>
   <h3> Contato </h3>
   <span>
     <a href="https://www.linkedin.com/in/tiagoemanuel/" target="blank">
@@ -34,7 +34,7 @@
       <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50">
     </a>
   </span>
-</div>
+</div> -->
 <br>
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&theme=tokyonight&show_icons=true&locale=en" alt="contribuições-repositórios" />
@@ -42,3 +42,9 @@
 </span>
 <br>
 
+#
+  <div align="center">
+   <a href="https://www.linkedin.com/in/tiagoemanuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:tiago.emanuel.n@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     
+<div align="center">

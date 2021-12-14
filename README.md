@@ -25,14 +25,7 @@
     </span>
 </div>
 
-<br>
-<!-- <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&theme=tokyonight&show_icons=true&locale=en" alt="contribuições-repositórios" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="contador-stacks" />
-</span>
-<br>
-
-# -->
+#
 
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">

@@ -27,6 +27,7 @@
        <img src="https://user-images.githubusercontent.com/72472530/148569341-3e0b36ba-9824-4abc-9c01-fabf02911612.png" width="50"> <!-- Heroku -->
        <img src="https://user-images.githubusercontent.com/72472530/148570343-5ffc29c4-bfac-4d96-bc9a-fae306197881.png" width="50"> <!-- Docker -->
        <img src="https://user-images.githubusercontent.com/72472530/148570494-7a8a5bdc-5ca7-4e21-be5c-15188addb5a3.png" width="50"> <!-- Git -->
+       <img src="https://user-images.githubusercontent.com/72472530/148572618-04f10799-6c70-4b95-a859-2d81871ebd5e.png" width="50"> <!-- Linux -->
     </span>
 </div>
 

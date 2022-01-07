@@ -2,8 +2,8 @@
 <h3 align="center">Dev Front-End || Dev Back-End || Estudante Trybe</h3>
 
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
-- 🔭 Terminei o módulo de front end (focado em reactJs, redux, hooks e contextApi) e estou estudando o back end (focado em mySql, Mongodb e nodeJs)
-- 💻 Futuramente pretendo estudar programação na blockchain
+- 🔭 No curso da Trybe já estudei Javascript, Jest, Heroku, ReactJs, NySql, Mongodb, NodeJs e atualmente estou estudando Python.
+- 💻 Estou estudando Typescript Docker e GraphQL.
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>

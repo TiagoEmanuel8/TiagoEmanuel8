@@ -25,7 +25,7 @@
        <img src="https://user-images.githubusercontent.com/72472530/148569578-f3447263-1b32-4c9a-ae35-1125fc9efd2f.png" width="50"> <!-- GraphQL -->
        <img src="https://user-images.githubusercontent.com/72472530/148568216-ee0d2e0a-bfe6-4be1-91ba-f26a3743864e.png" width="50"> <!-- Jest -->
        <img src="https://user-images.githubusercontent.com/72472530/148569341-3e0b36ba-9824-4abc-9c01-fabf02911612.png" width="50"> <!-- Heroku -->
-       <img src="https://user-images.githubusercontent.com/72472530/148570343-5ffc29c4-bfac-4d96-bc9a-fae306197881.png" width="50"> <!-- Docker -->
+       <!-- <img src="https://user-images.githubusercontent.com/72472530/148570343-5ffc29c4-bfac-4d96-bc9a-fae306197881.png" width="50"> --> <!-- Docker -->
        <img src="https://user-images.githubusercontent.com/72472530/148570494-7a8a5bdc-5ca7-4e21-be5c-15188addb5a3.png" width="50"> <!-- Git -->
        <img src="https://user-images.githubusercontent.com/72472530/148572618-04f10799-6c70-4b95-a859-2d81871ebd5e.png" width="50"> <!-- Linux -->
        <img src="https://user-images.githubusercontent.com/72472530/148572966-2fee5da2-05b9-4650-8896-15a0c5f142ef.png" width="50"> <!-- Trello -->

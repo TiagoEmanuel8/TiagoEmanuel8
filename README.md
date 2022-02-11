@@ -3,7 +3,7 @@
 
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
 - 🔭 Durante a Trybe adquiri experiência com Javascript, Jest, Heroku, ReactJs, NySql, Mongodb, NodeJs e atualmente estou estudando Python.
-- 💻 Estou estudando Typescript Docker e GraphQL.
+- 💻 Estou estudando Docker e GraphQL.
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações</p>
@@ -14,7 +14,7 @@
        <img src="https://user-images.githubusercontent.com/72472530/148571568-eed98342-f3d4-48d7-82a7-58b17e7ecc58.png" width="50"> <!-- Css -->
        <img src="https://user-images.githubusercontent.com/72472530/148571720-f75ff4bd-87e8-4d4a-931b-b4e2932668b8.png" width="50"> <!-- Python -->
        <img src="https://user-images.githubusercontent.com/72472530/148571842-95392985-d568-4769-be6f-4d33f0395ed1.png" width="50"> <!-- Js -->
-       <img src="https://user-images.githubusercontent.com/72472530/148567091-e8c78389-b80d-49de-bec7-ce0f51a7b748.png" width="50"> <!-- Ts -->
+       <!-- <img src="https://user-images.githubusercontent.com/72472530/148567091-e8c78389-b80d-49de-bec7-ce0f51a7b748.png" width="50">  Ts -->
        <img src="https://user-images.githubusercontent.com/72472530/148571981-08f0e16a-dfa4-4057-8a71-470cd96e36cb.png" width="50"> <!-- React -->
        <img src="https://user-images.githubusercontent.com/72472530/148567934-9786664b-1cfd-4aea-87e1-9f6aede1d8b7.png" width="50"> <!-- Redux -->
        <img src="https://user-images.githubusercontent.com/72472530/148571143-92fc29d7-f601-428f-b84c-c46ba0671ea0.png" width="50"> <!-- Node -->
@@ -25,11 +25,11 @@
        <img src="https://user-images.githubusercontent.com/72472530/148569578-f3447263-1b32-4c9a-ae35-1125fc9efd2f.png" width="50"> <!-- GraphQL -->
        <img src="https://user-images.githubusercontent.com/72472530/148568216-ee0d2e0a-bfe6-4be1-91ba-f26a3743864e.png" width="50"> <!-- Jest -->
        <img src="https://user-images.githubusercontent.com/72472530/148569341-3e0b36ba-9824-4abc-9c01-fabf02911612.png" width="50"> <!-- Heroku -->
-       <!-- <img src="https://user-images.githubusercontent.com/72472530/148570343-5ffc29c4-bfac-4d96-bc9a-fae306197881.png" width="50"> --> <!-- Docker -->
+       <img src="https://user-images.githubusercontent.com/72472530/148570343-5ffc29c4-bfac-4d96-bc9a-fae306197881.png" width="50"> <!-- Docker -->
        <img src="https://user-images.githubusercontent.com/72472530/148570494-7a8a5bdc-5ca7-4e21-be5c-15188addb5a3.png" width="50"> <!-- Git -->
-       <img src="https://user-images.githubusercontent.com/72472530/148572618-04f10799-6c70-4b95-a859-2d81871ebd5e.png" width="50"> <!-- Linux -->
-       <img src="https://user-images.githubusercontent.com/72472530/148572966-2fee5da2-05b9-4650-8896-15a0c5f142ef.png" width="50"> <!-- Trello -->
-       <img src="https://user-images.githubusercontent.com/72472530/148573158-17cff4ad-59ae-45f2-b969-24e329046629.png" width="50"> <!-- Figma -->
+       <!-- <img src="https://user-images.githubusercontent.com/72472530/148572618-04f10799-6c70-4b95-a859-2d81871ebd5e.png" width="50"> --> <!-- Linux -->
+       <!-- <img src="https://user-images.githubusercontent.com/72472530/148572966-2fee5da2-05b9-4650-8896-15a0c5f142ef.png" width="50"> --> <!-- Trello -->
+       <!-- <img src="https://user-images.githubusercontent.com/72472530/148573158-17cff4ad-59ae-45f2-b969-24e329046629.png" width="50"> --> <!-- Figma -->
     </span>
 </div>
 

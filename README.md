@@ -3,7 +3,7 @@
 
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
 - 🔭 Durante a Trybe adquiri experiência com Javascript, Jest, Heroku, ReactJs, NySql, Mongodb, NodeJs e atualmente estou estudando Python.
-- 💻 Estou estudando Docker e GraphQL.
+- 💻 Estou estudando Docker.
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações</p>

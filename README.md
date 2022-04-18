@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 Me chamo Tiago Emanuel</h1>
-<h3 align="center">Desenvolvedor Back-End Alô Bebê</h3>
+<h3 align="center">Desenvolvedor back end | Back-End Developer</h3>
 
 - 👨‍💻 Atualmente sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
 - 🔭 Durante a Trybe adquiri experiência com Javascript, Jest, Heroku, ReactJs, NySql, Mongodb, NodeJs e atualmente estou estudando Python.

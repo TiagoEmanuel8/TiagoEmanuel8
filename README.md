@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 Me chamo Tiago Emanuel</h1>
-<h3 align="center">Desenvolvedor back end | Back-End Developer</h3>
+<h3 align="center">Desenvolvedor Fullstack Web</h3>
 
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unisaomiguel.edu.br/ead/analise-e-desenvolvimento-de-sistemas/">Faculdade São Miguel</a></p> 
 - 👨‍💻 Estudei desenvolvimento web fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>

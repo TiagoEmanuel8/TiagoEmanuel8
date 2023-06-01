@@ -1,17 +1,14 @@
 <h1 align="center">Olá 👋 Me chamo Tiago Emanuel</h1>
-<h3 align="center">Desenvolvedor Fullstack Web</h3>
+<h3 align="center">Desenvolvedor Web Backend | Fullstack</h3>
 
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unisaomiguel.edu.br/ead/analise-e-desenvolvimento-de-sistemas/">Faculdade São Miguel</a></p> 
 - 👨‍💻 Estudei desenvolvimento web fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
-- 🔭 Tenho experiência em projetos usando Typescript, Javascript, Python, NodeJs, NestJs, GraphQl, Swagger, Jest, Heroku, ReactJs, Sequelize, TypeORM, PrismaIO, MySql, Mongodb,Sqlite, Redis, Memcached, Docker.
-- 💻 Futuramente pretendo estudar Java e Spring Boot.
+- 📑 Consulte os <a href="https://v2.credential.net/profile/tiagoemanueldonascimento981866/wallet#gs.belygj">Cursos</a> feitos por mim</p>
+- 🔭 Tenho experiência em projetos usando Typescript, Javascript, Php, NodeJs, NestJs, GraphQl, Swagger, Jest, Heroku, ReactJs, Sequelize, TypeORM, PrismaIO, MySql, Mongodb, Sqlite, Redis, Memcached, Docker.
+- 💻 Estou estudando Java e Spring Boot.
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações</p>
-
-
-
-
 
 
 

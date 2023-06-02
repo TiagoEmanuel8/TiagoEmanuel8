@@ -45,8 +45,8 @@
 
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=trybe-exercises,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,sac-easy-chat,Awesome-Profile-README-templates,alurakut&langs_count=8&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=trybe-exercises,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,sac-easy-chat,Awesome-Profile-README-templates,alurakut&langs_count=8&layout=compact&langs_count=10&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=trybe-exercises,easy-sac,sac-easy-chat,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,cookmaster,sac-easy-chat,species-Api,Awesome-Profile-README-templates,alurakut&langs_count=10&layout=compact&langs_count=7&theme=tokyonight%22)"/>
 </div>
  <div><br>
    

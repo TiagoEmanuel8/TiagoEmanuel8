@@ -46,7 +46,7 @@
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&theme=tokyonight&hide=javascript&layout=compact&langs_count=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=trybe-exercises,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,sac-easy-chat,Awesome-Profile-README-templates,alurakut&langs_count=8&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
  <div><br>
    

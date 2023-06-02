@@ -9,8 +9,7 @@
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações!
-- [php-ar21](https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/ca440c6f-b5b2-4f78-a6b3-d5f9c250cd87)
-es</p>
+
 
   <h3> Tecnologias </h3>
     <span>
@@ -47,7 +46,7 @@ es</p>
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&theme=tokyonight%22&hide=javascript&layout=compact&langs_count=10"/>
 </div>
  <div><br>
    

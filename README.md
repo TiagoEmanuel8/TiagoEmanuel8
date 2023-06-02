@@ -3,9 +3,9 @@
 
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unisaomiguel.edu.br/ead/analise-e-desenvolvimento-de-sistemas/">Faculdade São Miguel</a></p> 
 - 👨‍💻 Estudei desenvolvimento web fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
-- 📑 Consulte os <a href="https://v2.credential.net/profile/tiagoemanueldonascimento981866/wallet#gs.belygj">Cursos</a> feitos por mim</p>
+- 📑 <a href="https://v2.credential.net/profile/tiagoemanueldonascimento981866/wallet#gs.belygj">Cursos</a> feitos por mim</p>
 - 🔭 Tenho experiência em projetos usando Typescript, Javascript, Php, NodeJs, NestJs, GraphQl, Swagger, Jest, Heroku, ReactJs, Sequelize, TypeORM, PrismaIO, MySql, Mongodb, Sqlite, Redis, Memcached, Docker.
-- 💻 Estou estudando Java e Spring Boot.
+- 💻 Estou me especializando na parte backend do desenvolvimento web estudando tecnologias como microserviços, mensageria e arquitetura hexagonal, também estou estudando Java e futuramente irei postar projetos nessa linguagem aqui.
 - ⚡ No tempo livre gosto de praticar esportes como basquete ⛹🏽‍♂️ e natação 🏊🏽‍♂️, além de tocar teclado 🎹.
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações!
@@ -13,31 +13,40 @@
 
   <h3> Tecnologias </h3>
     <span>
-       <img src="https://user-images.githubusercontent.com/72472530/148571842-95392985-d568-4769-be6f-4d33f0395ed1.png" width="50"> <!-- Js -->
-       <img src="https://user-images.githubusercontent.com/72472530/148567091-e8c78389-b80d-49de-bec7-ce0f51a7b748.png" width="50"> <!-- Ts -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/1ecf713b-d878-4900-bab6-90d6146858fb" width="50"> <!-- Python -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/e08d43e0-6b7e-43e1-b6ff-f1b9ca0de4e4" width="40"> <!-- Java -->
-       <img src="https://user-images.githubusercontent.com/72472530/148571143-92fc29d7-f601-428f-b84c-c46ba0671ea0.png" width="50"> <!-- Node -->
-       <img src="https://user-images.githubusercontent.com/72472530/167022128-30630ab1-3055-4c25-9f21-b6e56a8086de.svg" width="50"> <!-- Nest -->
-       <img src="https://user-images.githubusercontent.com/72472530/167021811-7073e688-87d2-40b1-8387-8daf9c9294ba.png" width="50"> <!-- Prisma -->
-       <img src="https://user-images.githubusercontent.com/72472530/167022049-70706048-848b-44b8-b370-11be1b41ef09.png" width="50"> <!-- TypeORM -->
-       <img src="https://user-images.githubusercontent.com/72472530/148570702-d6172a21-73f7-4cb9-abeb-6bc72ec52416.png" width="50"> <!-- Sequelize -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"> <!-- Mysql -->
-       <img src="https://user-images.githubusercontent.com/72472530/148569749-fdae3d11-6da5-4211-84bd-0ca491da481c.png" width="50"> <!-- SQLite -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55"> <!-- MongoDB -->
-       <img src="https://user-images.githubusercontent.com/72472530/148569578-f3447263-1b32-4c9a-ae35-1125fc9efd2f.png" width="50"> <!-- GraphQL -->
-       <img src="https://user-images.githubusercontent.com/72472530/167022524-3653ae84-7f10-40e2-a49e-6a15357603fa.png" width="50"> <!-- Swagger -->
-       <img src="https://user-images.githubusercontent.com/72472530/148568216-ee0d2e0a-bfe6-4be1-91ba-f26a3743864e.png" width="50"> <!-- Jest -->
-       <img src="https://user-images.githubusercontent.com/72472530/148569341-3e0b36ba-9824-4abc-9c01-fabf02911612.png" width="50"> <!-- Heroku -->
-       <img src="https://user-images.githubusercontent.com/72472530/148570343-5ffc29c4-bfac-4d96-bc9a-fae306197881.png" width="50"> <!-- Docker -->
-       <img src="https://user-images.githubusercontent.com/72472530/167022385-4c7acc01-9498-4c63-af2f-67ec50d8b9ca.png" width="50"> <!-- Memcached -->
-       <img src="https://user-images.githubusercontent.com/72472530/167022245-59d9893e-259d-4070-90fe-658e7904f000.png" width="50"> <!-- Redis -->
-       <img src="https://user-images.githubusercontent.com/72472530/148571387-412a84b1-8665-4464-8d96-e5c29e1af68b.png" width="50"> <!-- Html -->
-       <img src="https://user-images.githubusercontent.com/72472530/148571568-eed98342-f3d4-48d7-82a7-58b17e7ecc58.png" width="50"> <!-- Css -->
-       <img src="https://user-images.githubusercontent.com/72472530/148571981-08f0e16a-dfa4-4057-8a71-470cd96e36cb.png" width="50"> <!-- React -->
-       <img src="https://user-images.githubusercontent.com/72472530/148567934-9786664b-1cfd-4aea-87e1-9f6aede1d8b7.png" width="50"> <!-- Redux -->
-       <img src="https://user-images.githubusercontent.com/72472530/148570494-7a8a5bdc-5ca7-4e21-be5c-15188addb5a3.png" width="50"> <!-- Git -->
-       <img src="https://user-images.githubusercontent.com/72472530/148572618-04f10799-6c70-4b95-a859-2d81871ebd5e.png" width="50"> <!-- Linux -->
+       <img src="https://user-images.githubusercontent.com/72472530/148571842-95392985-d568-4769-be6f-4d33f0395ed1.png" width="60"> <!-- Js -->
+       <img src="https://user-images.githubusercontent.com/72472530/148567091-e8c78389-b80d-49de-bec7-ce0f51a7b748.png" width="60"> <!-- Ts -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/1ecf713b-d878-4900-bab6-90d6146858fb" width="60"> <!-- Python -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/e08d43e0-6b7e-43e1-b6ff-f1b9ca0de4e4" width="50"> <!-- Java -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/d547eb04-6101-4486-9599-309b8198aabb" width="50"> <!-- Html -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/d8a7af7d-9a43-4538-a6d0-00e1fef405ce" width="50"> <!-- Css -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/a20e3986-3f68-43a2-8120-c47153bd26e9" width="60"> <!-- Node -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/fc1c2692-cbd6-4865-a2ce-af6ac274d9dd" width="150"> <!-- React -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/b5197a25-dc9f-4105-9068-399abfe483ad" width="150"> <!-- Nest -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/1db7a797-280b-4715-9fbf-a99d7445388a" width="180"> <!-- Adonis -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/e12130fb-18cb-4dd0-9630-1e15de71be07" width="160"> <!-- GraphQL -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/c3998e2a-d357-4e31-99f3-f9866fc15791" width="150"> <!-- Spring -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/aea722e1-d909-49c3-a9cc-cff10b71fd70" width="150"> <!-- Prisma -->
+       <img src="https://user-images.githubusercontent.com/72472530/167022049-70706048-848b-44b8-b370-11be1b41ef09.png" width="80"> <!-- TypeORM -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/8df2ce40-a90f-4df0-ab8f-e93294905ff7" width="150"> <!-- Sequelize -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/a27281fb-96fb-470e-b6c3-aa6ba83d2d17" width="100"> <!-- Mongoose -->
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100"> <!-- Mysql -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/b5f944fb-4512-4956-9efc-bc2ae7c5877a" width="150"> <!-- Postgresql -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/b0df66fc-8bd0-4d06-a4ac-28caa4dce1a7" width="150"> <!-- SQLite -->
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="80"> <!-- MongoDB -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/b9ec8f53-e92f-4d28-9fd7-69857403aa5f" width="150"> <!-- Memcached -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/b46a6991-4fc7-47db-878f-8e9e5a14f6de" width="150"> <!-- Redis -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/5c08d4b7-327d-4414-b22e-53c246072029" width="80"> <!-- Swagger -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/b09b73bd-1b18-4c52-8923-ec05fd98f71c" width="150"> <!-- Websocket -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/2c8a9be5-b6f7-465b-9220-d92657422672" width="150"> <!-- Eslint -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/cfc5f8a0-1408-441e-b219-a9067e043f92" width="150"> <!-- Jest -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/75a6df5a-c36e-49c9-b925-f28db3f258f5" width="150"> <!-- Mocha -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/04794c62-be5f-4d49-a3af-6a3e73c6318e" width="150"> <!-- Chai -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/99670c06-7184-4dae-bdb0-50d5265cea58" width="150"> <!-- Cypress -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/1cc20818-0799-4920-9b1c-8db0b73ca337" width="100"> <!-- Docker -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/482accce-db8b-43b5-9b96-2fc92f5acfb8" width="150"> <!-- Redux -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/ac64dd25-d345-4baf-8fab-72d898113001" width="150"> <!-- Git -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/309be142-62f0-4257-9f74-aec7ecfa83d6" width="150"> <!-- Linux -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/891dacd2-ab94-405c-b556-08e603c343ae" width="150"> <!-- Visual Studio Code -->
     </span>
 </div>
 

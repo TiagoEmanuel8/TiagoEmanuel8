@@ -46,7 +46,7 @@
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&theme=tokyonight%22&hide=javascript&layout=compact&langs_count=10"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&theme=tokyonight&hide=javascript&layout=compact&langs_count=10"/>
 </div>
  <div><br>
    

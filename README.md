@@ -11,9 +11,10 @@
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações!
 
 
+
   <h3> Tecnologias </h3>
     <span>
-       <img src="https://user-images.githubusercontent.com/72472530/148571842-95392985-d568-4769-be6f-4d33f0395ed1.png" width="60"> <!-- Js -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
        <img src="https://user-images.githubusercontent.com/72472530/148567091-e8c78389-b80d-49de-bec7-ce0f51a7b748.png" width="60"> <!-- Ts -->
        <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/1ecf713b-d878-4900-bab6-90d6146858fb" width="60"> <!-- Python -->
        <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/e08d43e0-6b7e-43e1-b6ff-f1b9ca0de4e4" width="50"> <!-- Java -->

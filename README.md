@@ -59,7 +59,7 @@
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=species-Api,trybe-exercises,trivia,starwars-Planets,easy-sac,sac-easy-chat,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,cookmaster,sac-easy-chat,species-Api,Awesome-Profile-README-templates,alurakut&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=awesome-Profile-README-templates,species-Api,trybe-exercises,trivia,starwars-Planets,easy-sac,sac-easy-chat,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,cookmaster,sac-easy-chat,species-Api,Awesome-Profile-README-templates,alurakut&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
  <div><br>
    

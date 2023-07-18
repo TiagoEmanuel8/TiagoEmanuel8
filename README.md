@@ -32,6 +32,7 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"> <!-- MongoDB -->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60"> <!-- Redis -->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60"> <!-- Kafka -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/54f7d815-ee24-43c8-8478-ff3608bcc35f" width="60"> <!-- Rabbitmq -->
        <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/5c08d4b7-327d-4414-b22e-53c246072029" width="60"> <!-- Swagger -->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="60"> <!-- Websocket -->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"> <!-- Docker -->
@@ -39,13 +40,17 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="60"> <!-- Eslint -->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60"> <!-- Jest -->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="60"> <!-- Mocha -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/04794c62-be5f-4d49-a3af-6a3e73c6318e" width="150"> <!-- Chai -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/99670c06-7184-4dae-bdb0-50d5265cea58" width="150"> <!-- Cypress -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/ac64dd25-d345-4baf-8fab-72d898113001" width="150"> <!-- Git -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/309be142-62f0-4257-9f74-aec7ecfa83d6" width="150"> <!-- Linux -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/891dacd2-ab94-405c-b556-08e603c343ae" width="150"> <!-- Visual Studio Code -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/d547eb04-6101-4486-9599-309b8198aabb" width="50"> <!-- Html -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/d8a7af7d-9a43-4538-a6d0-00e1fef405ce" width="50"> <!-- Css -->
+       <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" width="60"> <!-- Chai -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/fcdccdcd-b32c-4c64-b1ae-be0bef92cd66" width="60"> <!-- Cypress -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="60"> <!-- Next --> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"> <!-- Tailwind Css -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="60"> <!-- Babel -->
+       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/fa36d5cf-95c2-497b-a564-efb0248703d7" width="60"> <!-- Vite -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60"> <!-- Html -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60"> <!-- Css -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"> <!-- Git -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"> <!-- Linux -->
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"> <!-- Visual Studio Code -->
     </span>
 </div>
 
@@ -54,7 +59,7 @@
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=trybe-exercises,easy-sac,sac-easy-chat,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,cookmaster,sac-easy-chat,species-Api,Awesome-Profile-README-templates,alurakut&langs_count=10&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=species-Api,trybe-exercises,trivia,starwars-Planets,easy-sac,sac-easy-chat,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,cookmaster,sac-easy-chat,species-Api,Awesome-Profile-README-templates,alurakut&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
  <div><br>
    

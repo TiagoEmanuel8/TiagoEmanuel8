@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Web Backend | Fullstack</h3>
 
 - 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unisaomiguel.edu.br/ead/analise-e-desenvolvimento-de-sistemas/">Faculdade São Miguel</a></p> 
-- 👨‍💻 Estudei desenvolvimento web fullstack na <a href="https://www.betrybe.com/">Trybe</a></p>
+<!-- - 👨‍💻 Estudei desenvolvimento web fullstack na <a href="https://www.betrybe.com/">Trybe</a></p> -->
 - 📑 <a href="https://v2.credential.net/profile/tiagoemanueldonascimento981866/wallet#gs.belygj">Cursos</a> feitos por mim</p>
 - 🔭 Tenho experiência em projetos usando Typescript, Javascript, Php, NodeJs, NestJs, GraphQl, Swagger, Jest, Heroku, ReactJs, Sequelize, TypeORM, PrismaIO, MySql, Mongodb, Sqlite, Redis, Memcached, Docker.
 - 💻 Estou me especializando na parte backend do desenvolvimento web estudando tecnologias como microserviços, mensageria e arquitetura hexagonal, também estou estudando Java e futuramente irei postar projetos nessa linguagem aqui.

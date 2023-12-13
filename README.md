@@ -10,51 +10,44 @@
 - 🎯 Fique a vontede para conhecer meu <a href="https://tiago-portifolio.vercel.app" target="_blank">Portfólio</a>.</p>
 - 📝 Acesse meu <a href="https://gitconnected.com/tiagoemanuel8/resume" target="_blank">Curriculo</a> para mais informações!
 
-
-
   <h3> Tecnologias </h3>
     <span>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> <!-- Js -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"> <!-- Ts -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"> <!-- Python -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"> <!-- Java -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"> <!-- Node -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"> <!-- React -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="60"> <!-- Nest -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="60"> <!-- GraphQL -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"> <!-- Spring -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/c5c3d57b-9009-4a6d-9f0f-57490eafb4b2" width="60"> <!-- Prisma -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/62bfc616-136b-487d-9271-0d389186f666" width="60"> <!-- TypeORM -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="60"> <!-- Sequelize -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"> <!-- Mysql -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"> <!-- Postgresql -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60"> <!-- SQLite -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"> <!-- MongoDB -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60"> <!-- Redis -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60"> <!-- Kafka -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/54f7d815-ee24-43c8-8478-ff3608bcc35f" width="60"> <!-- Rabbitmq -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/5c08d4b7-327d-4414-b22e-53c246072029" width="60"> <!-- Swagger -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="60"> <!-- Websocket -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"> <!-- Docker -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"> <!-- Kubernetes -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="60"> <!-- Eslint -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60"> <!-- Jest -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="60"> <!-- Mocha -->
-       <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" width="60"> <!-- Chai -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/fcdccdcd-b32c-4c64-b1ae-be0bef92cd66" width="60"> <!-- Cypress -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="60"> <!-- Next --> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"> <!-- Tailwind Css -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="60"> <!-- Babel -->
-       <img src="https://github.com/TiagoEmanuel8/TiagoEmanuel8/assets/72472530/fa36d5cf-95c2-497b-a564-efb0248703d7" width="60"> <!-- Vite -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60"> <!-- Html -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60"> <!-- Css -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"> <!-- Git -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"> <!-- Linux -->
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"> <!-- Visual Studio Code -->
+
+    ![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+    ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+    ![Golang](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white)&nbsp;
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+    ![Graphql](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
+    ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+    ![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=express&logoColor=white)&nbsp;
+    ![Nest](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
+    ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
+    ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
+    ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+    ![Chakra Ui](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white)&nbsp;
+    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=flat&logo=sequelize&logoColor=white)&nbsp;
+    ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)&nbsp;
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
+    ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
+    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)&nbsp;
+    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+    ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)&nbsp;
+    ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)&nbsp;
+    ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)&nbsp;
+    ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+    ![Docker compose](https://img.shields.io/badge/Docker%20Compose-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+    ![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?&style=flat&logo=mocha&logoColor=white)&nbsp;
+    ![Chai](https://img.shields.io/badge/Chai-A30701.svg?&style=flat&logo=chai&logoColor=white)&nbsp;
+    ![Sinon](https://img.shields.io/badge/Sinon-995F44.svg?&style=flat&logo=sinon&logoColor=white)&nbsp;
+    ![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
+    ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+    ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
     </span>
 </div>
-
-#
 
 <div align="center">
   <a href="https://github.com/TiagoEmanuel8">

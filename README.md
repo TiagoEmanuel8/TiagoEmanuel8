@@ -28,22 +28,19 @@
 <p align="center">
   <a href="mailto:tiago.emanuel.n@gmail.com?subject=Olá%20Tiago%20Emanuel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tiago-emanuel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TiagoEmanuel8"><img src="https://img.shields.io/github/followers/emersonfbarros?label=siga&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### :computer: &nbsp;Principal domínio tecnológico, até o momento 
+### :computer: &nbsp;Tecnologias
  ![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
  ![Golang](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white)&nbsp;
  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
  ![Graphql](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
  ![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=express&logoColor=white)&nbsp;
  ![Nest](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
  ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
- ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)&nbsp;
  ![Chakra Ui](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white)&nbsp;
  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=flat&logo=sequelize&logoColor=white)&nbsp;
  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)&nbsp;
@@ -67,3 +64,19 @@
  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 
 <hr/>
+
+
+<details>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoEmanuel8&hide_border=true&theme=tokyonight" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TiagoEmanuel8&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEmanuel8&exclude_repo=awesome-Profile-README-templates,species-Api,trybe-exercises,trivia,starwars-Planets,easy-sac,sac-easy-chat,nbb-presentation,nodejs-concepts,github-readme-stats,trybewallet,recipes-app,exercise-sequelize-associations,tiago.portifolio,cookmaster,sac-easy-chat,species-Api,Awesome-Profile-README-templates,alurakut&layout=compact&langs_count=8&theme=tokyonight" />
+    </p>
+</details>
+
+<hr/>
+<br/>
+

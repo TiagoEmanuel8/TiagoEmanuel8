@@ -66,7 +66,7 @@
 
 
 <details>
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <summary><b>:gear: &nbsp;estadísticas de GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoEmanuel8&hide_border=true&theme=tokyonight" />
